@@ -1,7 +1,7 @@
 {
   "UpdatePackageData" : {
     "DisableInOPM" : false,
-    "DownloadZipURL" : "https://raw.githubusercontent.com/abkabkcom/abkabk.com/master/mytools/updates/lazautoupdate.zip",
+    "DownloadZipURL" : "https://github.com/abkabkcom/abkabk.com/raw/master/mytools/updates/mytools.zip",
     "Name" : "mytools.zip"
   },
   "UpdatePackageFiles" : [
