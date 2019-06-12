@@ -1,7 +1,7 @@
 {
   "UpdatePackageData" : {
     "DisableInOPM" : false,
-    "DownloadZipURL" : "https://svn.code.sf.net/p/lazarus-ccr/svn/components/lazautoupdate/latest_stable/updates/lazautoupdate.zip",
+    "DownloadZipURL" : "https://raw.githubusercontent.com/abkabkcom/abkabk.com/master/mytools/updates/lazautoupdate.zip",
     "Name" : "mytools.zip"
   },
   "UpdatePackageFiles" : [
